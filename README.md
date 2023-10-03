@@ -1,2 +1,2 @@
 # testing_navGit
-Repository for testing navigition on Git
+Repository for testing navigation on Git
