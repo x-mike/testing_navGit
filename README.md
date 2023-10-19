@@ -5,3 +5,4 @@ String number three.
 String number four.
 String number five.
 String number six.
+String number seven.
